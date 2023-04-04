@@ -7,8 +7,14 @@
 
 ## Contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hebert-moraes-7171461b7/)](https://www.linkedin.com/in/hebert-moraes-7171461b7/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hebertmoraes2019@gmail.com)](mailto:hebertmoraes2019@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hebert-moraes-7171461b7/)](https://www.linkedin.com/in/hebert-moraes-7171461b7/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hebertmoraes2019@gmail.com)](mailto:hebertmoraes2019@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&link=https://unf0rast3ro.itch.io/)](https://unf0rast3ro.itch.io/)
+
+## Sobre & Portfólio:
+
+<p>Desenvolvedor front-end e entusiasta em desenvolvimento de jogos! Criação de jogos é arte e faço por amor!</p>
+<p>Confira os meus projetos no meu portfólio gameficado: https://hebertmoraes.github.io/PortfolioJourney/</p>
 
 ## Linguagens e ferramentas:
 
