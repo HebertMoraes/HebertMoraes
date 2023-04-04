@@ -1,4 +1,4 @@
-## <h1>I'm Hebert Moraes! :wave:</h1><img align="right" width="350" src="img/dev.png" />
+## <h1>I'm Hebert Moraes! :wave:</h1><img align="right" width="350" src="img/banner1.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hebertmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="hebertmoraes" /> </p>
 
