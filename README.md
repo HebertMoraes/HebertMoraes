@@ -17,7 +17,7 @@
 
 ## :adult: Sobre & Portfólio:
 
-<p>Desenvolvedor front-end e entusiasta em desenvolvimento de jogos! Criação de jogos é arte e faço por amor!</p>
+<p>Desenvolvedor front-end e entusiasta em desenvolvimento de jogos!</p>
 <p>---------- :point_down: ---------- :point_down: ---------- :point_down: ---------- :point_down: ---------- :point_down: ---------- :point_down: ---------- :point_down: ----------</p>
 <p>:point_right:  Confira os meus projetos no meu portfólio gameficado: https://hebertmoraes.github.io/PortfolioJourney/</p>
 <p>---------- :point_up_2: ---------- :point_up_2: ---------- :point_up_2: ---------- :point_up_2: ---------- :point_up_2: ---------- :point_up_2: ---------- :point_up_2: ----------</p>
